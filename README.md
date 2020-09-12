@@ -40,3 +40,9 @@ This data may be used for building any ML models or finding a quote for your nex
 and many more
 
 **Note:** Suggest if you have any other Tags to be listed here
+
+### Feel/Vibe
+
+* Positive
+* Neutral
+* Negative
