@@ -16,26 +16,51 @@ This data may be used for building any ML models or finding a quote for your nex
 
 ### Moods Accepted
 
+* Angry
+* Confident
+* Fear
 * Happy
+* Neutral
 * Sad
 * Surprised
-* Angry
-* Fear
-* Neutral
 
 **Note:** Suggest if you have any other moods to be included
 
 ### Tags
 
+* Badass
 * Beach
-* Mountains
-* Swimming
-* Trekking
-* Cute
-* Flight
-* Movie
-* Computers
+* Beauty
 * Bikini
+* Blessed
+* Computers
+* Confidence
+* Couple
+* Creativity
+* Cute
+* Destiny
+* Flight
+* Friends
+* Fun
+* Greenery
+* Hardwork
+* Heavenly
+* Holidays
+* Humanity
+* Love
+* Luck
+* Mountains
+* Movie
+* Nature
+* Powerful
+* Relationship
+* Sea
+* Scenary
+* SelfLove
+* Sunset
+* Swimming
+* Travel
+* Trekking
 * Vacation
 and many more
 
