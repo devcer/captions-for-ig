@@ -22,7 +22,8 @@ This data may be used for building any ML models or finding a quote for your nex
 * Angry
 * Fear
 * Neutral
-
+* Disgust
+* Excitement
 **Note:** Suggest if you have any other moods to be included
 
 ### Tags
@@ -37,6 +38,11 @@ This data may be used for building any ML models or finding a quote for your nex
 * Computers
 * Bikini
 * Vacation
+* Food
+* Beauty
+* Song
+* Sky
+* Nature
 and many more
 
 **Note:** Suggest if you have any other Tags to be listed here
