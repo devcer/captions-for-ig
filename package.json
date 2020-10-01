@@ -1,0 +1,28 @@
+{
+  "name": "captions-for-ig",
+  "version": "0.0.1",
+  "description": "Captions that are suitable for your IG/Facebook posts",
+  "scripts": {
+    "test": "csval captions.csv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcer/captions-for-ig.git"
+  },
+  "keywords": [
+    "captions",
+    "instagram",
+    "facebook",
+    "post",
+    "data"
+  ],
+  "author": "Santosh Viswanatham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devcer/captions-for-ig/issues"
+  },
+  "homepage": "https://github.com/devcer/captions-for-ig#readme",
+  "dependencies": {
+    "csval": "^1.1.1"
+  }
+}
