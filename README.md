@@ -32,12 +32,15 @@ This data may be used for building any ML models or finding a quote for your nex
 * Beauty
 * Bikini
 * Blessed
+* Color
 * Computers
 * Confidence
 * Couple
 * Creativity
 * Cute
 * Destiny
+* Fall
+* Family
 * Flight
 * Friends
 * Fun
@@ -46,21 +49,38 @@ This data may be used for building any ML models or finding a quote for your nex
 * Heavenly
 * Holidays
 * Humanity
+* Life
 * Love
 * Luck
+* Motivational
 * Mountains
 * Movie
 * Nature
+* Uplifting
+* Perfect
+* Photography
 * Powerful
+* Rainy
 * Relationship
+* Relaxation
+* Sad
 * Sea
+* Seasons
 * Scenary
 * SelfLove
+* Spring
+* Strong
+* Success
+* Summer
+* Sun
 * Sunset
 * Swimming
 * Travel
 * Trekking
 * Vacation
+* Weather
+* Winter
+* Work
 and many more.
 
 **Note:** Suggest if you have any other Tags to be listed here
