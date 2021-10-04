@@ -22,6 +22,7 @@ This data may be used for building any ML models or finding a quote for your nex
 * Neutral
 * Sad
 * Surprised
+* Passive
 
 **Note:** Suggest if you have any other moods to be included
 
